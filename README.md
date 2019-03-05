@@ -13,7 +13,7 @@ _Olivia Randall-Kosich, B.S., Barbara Andraka-Christou, J.D., Ph.D., Rachel Tota
 
 # Reducing health care costs and improving health outcomes: Is patient-centered care the means to achieve the incongruent objectives?
 
-_Stephen Mhere, Barbara Andraka-Christou_
+_Stephen Mhere, B.S., Barbara Andraka-Christou, J.D., Ph.D_
 
 **Purpose**: This research determines if primary care physicians use patient-centered care and whether healthcare policies predicated on the practice can be effective in achieving cost reductions while improving health outcomes. 
 
@@ -22,3 +22,20 @@ _Stephen Mhere, Barbara Andraka-Christou_
 **Results**: Survey participation rate was 39.5%. Adoption rates for individual patient-centered care attributes ranged from 88.2% for electronic health record (EHR) adoption to 0.0% for patient portal implementation. Overall patient-centered care adoption rate was about 65%.
 
 **Conclusion**: Primary care physicians use patient-centered care. Therefore adopting patient-centered care policies to enable reductions in healthcare spending cuts and improvements in health outcomes is unlikely to be effective. However, results show low adoption rates for some of the patient-centered attributes, providing possibilities for improvement. This study has significant internal and external validity issues, warranting further studies before concrete healthcare policies predicated on patient-centered care are adopted.
+
+# Participating in 12-step support groups while undergoing medication-assisted treatment for opioid use disorder: a qualitative study of individuals’ experiences with stigma
+
+_Rachel Totaram, M.H.A., Olivia Randall-Kosich, B.S., Brianna Alex, B.S., Barbara Andraka-Christou, J.D., Ph.D._
+
+**Purpose**: To understand how stigma related to medication-assisted treatment (MAT) for opioid use disorder is operationalized in 12-step peer support groups and how individuals respond to stigma. Despite MAT’s efficacy, previous studies suggest that MAT-related stigma is common in 12-step support groups, but more information is needed about its operationalization and responses.
+
+**Methods**: Individuals in OUD recovery were recruited through snow-ball sampling for phone interviews that were audio recorded and transcribed. We then created a codebook based on preliminary screening of transcripts and the research question in Dedoose software. We tested codebook reliability, adjusting codes as needed. Next, we independently coded transcripts to identify meaningful data, adding new categories in the process. We resolved discrepancies through negotiation. Finally, we analyzed coded text for themes.
+
+**Results**: We recruited 35 participants from 11 states: 86% had 12-step group experience; and 88% had MAT experience. Participants frequently expressed a desire for simultaneous MAT and 12-step group participation but commonly experienced stigma. Stigma was expressed by preventing individuals in MAT from speaking at meetings, refusing to sponsor them, forbidding them from claiming “clean time,” and pressuring them MAT. Stigma differs by geographic area and specific group. Responses to stigma included hiding MAT status, “taking what you need and leaving the rest,” feeling shame or anger, and seeking new groups. Many participants want new 12-step groups formed that are explicitly open to MAT.
+
+**Conclusion**: Many individuals desire simultaneous participation in MAT and 12-step groups but experience MAT-related stigma. New pro-MAT 12-step groups may be needed.
+
+# A Comparative Analysis of home and community-based long term care between the USA and China
+
+_ Xian Cao, B.S. Barbara Andraka-Christou, J.D., Ph.D _
+
