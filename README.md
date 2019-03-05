@@ -1,6 +1,6 @@
 ![poster](libs/images/hsr-gss-poster-2-digital.jpg)
 
-_[print poster](libs/images/hsr-gss-poster-2-print.jpg)_  
+_[print poster](libs/images/hsr-gss-poster-1-print.jpg)_  
 
 # Reasons for starting and stopping medications for opioid use disorder: a qualitative analysis
 _Olivia Randall-Kosich, B.S., Barbara Andraka-Christou, J.D., Ph.D., Rachel Totaram, M.H.A._
