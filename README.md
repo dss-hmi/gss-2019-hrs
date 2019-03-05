@@ -37,7 +37,7 @@ _Rachel Totaram, M.H.A., Olivia Randall-Kosich, B.S., Brianna Alex, B.S., Barbar
 
 # A Comparative Analysis of home and community-based long term care between the USA and China
 
-_ Xian Cao, B.S. Barbara Andraka-Christou, J.D., Ph.D _
+_Xian Cao, B.S., Barbara Andraka-Christou, J.D., Ph.D_
 
 **Purpose**: This paper compared and contrast the home and community-based long term care between the USA and China, based on an extensive literature review. 
 
