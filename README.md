@@ -39,3 +39,12 @@ _Rachel Totaram, M.H.A., Olivia Randall-Kosich, B.S., Brianna Alex, B.S., Barbar
 
 _ Xian Cao, B.S. Barbara Andraka-Christou, J.D., Ph.D _
 
+**Purpose**: This paper compared and contrast the home and community-based long term care between the USA and China, based on an extensive literature review. 
+
+**Methods**: This article described caregivers’ characteristics in the USA and China, as well as information on home and community-based service (HCBS) related policies and programs. This review also included the impact of culture on people’s perceptions and adoption of HCBS. 
+
+**Results**: China still lack the availability and quality of eldercare workforce and a professionalized long-term care workforce. In China, HCBS is mainly targeting on social services, which were provided through community service centers, housemaids, and homemakers. One reason may be because of filial piety culture, which values informal care for seniors than other care types. In the USA, the HCBS include both health services and human services, which is much more mature than China. However, the LTC quality and service delivery process still need further improvement to meet seniors’ need. 
+
+**Conclusion**: China is still in the early stage of developing comprehensive HCBS. The Chinese government needs to address the shortage of formal caregivers, providing caregiver supports and training opportunities. The USA has various HCBS program available now. However, incorporating person-centered care and culture competency skill in the HCBS is needed to improve seniors’ quality of life. 
+
+Keywords: _home and community-based service, long term care, culture, Comparative Analysis_
