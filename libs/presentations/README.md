@@ -1,0 +1,1 @@
+Folder storing participants' presentations
