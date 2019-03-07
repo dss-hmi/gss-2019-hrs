@@ -15,7 +15,7 @@ _Olivia Randall-Kosich, B.S., Barbara Andraka-Christou, J.D., Ph.D., Rachel Tota
 
 # Reducing health care costs and improving health outcomes: Is patient-centered care the means to achieve the incongruent objectives?
 
-_Stephen Mhere, B.S., Barbara Andraka-Christou, J.D., Ph.D_
+_Stephen Mhere, B.S._
 
 **Purpose**: This research determines if primary care physicians use patient-centered care and whether healthcare policies predicated on the practice can be effective in achieving cost reductions while improving health outcomes. 
 
@@ -39,7 +39,7 @@ _Rachel Totaram, M.H.A., Olivia Randall-Kosich, B.S., Brianna Alex, B.S., Barbar
 
 # A Comparative Analysis of home and community-based long term care between the USA and China
 
-_Xian Cao, B.S., Barbara Andraka-Christou, J.D., Ph.D_
+_Xian Cao, B.S._
 
 **Purpose**: This paper compared and contrast the home and community-based long term care between the USA and China, based on an extensive literature review. 
 
