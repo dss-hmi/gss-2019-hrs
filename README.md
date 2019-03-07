@@ -3,7 +3,7 @@
 _[print poster](libs/images/hsr-gss-poster-1-print.pdf)_  
 
 # Reasons for starting and stopping medications for opioid use disorder: a qualitative analysis
-_Olivia Randall-Kosich, B.S., Barbara Andraka-Christou, J.D., Ph.D., Rachel Totaram, M.H.A._
+_Olivia Randall-Kosich, B.S., Barbara Andraka-Christou, J.D., Ph.D., Rachel Totaram, M.H.A., Jessica Alamo, B.A., Mayur Nadig, B.D.S._
 
 **Background**: Despite their efficacy, medications for opioid use disorder (MOUD) are underutilized in the United States. Few studies have explored reasons why individuals pick MOUD versus non-MOUD options or why people discontinue using MOUD once they start. We sought to identify reasons why individuals start MOUD and stop MOUD, including how they learn of MOUD options. We also explored differences between starting and stopping the three most common formulations: methadone, oral buprenorphine, and extended-release naltrexone.
 
