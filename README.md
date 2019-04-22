@@ -2,6 +2,8 @@
 
 _[poster for print](libs/images/hsr-gss-poster-1-print.pdf)_  
 
+Please [retweet the announcement](https://twitter.com/andkovpro/status/1120364723667644423)!
+
 
 
 # Program
