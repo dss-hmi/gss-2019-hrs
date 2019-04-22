@@ -6,13 +6,13 @@ _[poster for print](libs/images/hsr-gss-poster-1-print.pdf)_
 
 # Program
 
-* 01 - ([pdf][talk1]) - _Olivia Randall-Kosich_ - Reasons for starting and stopping medications for opioid use disorder: a qualitative analysis. 
+* 01 - ([link to pdf][talk1]) - _Olivia Randall-Kosich_ - Reasons for starting and stopping medications for opioid use disorder: a qualitative analysis. 
 
-* 02  - ([pdf][talk2]) - _Stephen Mhere_ - Reducing health care costs and improving health outcomes: Is patient-centered care the means to achieve the incongruent objectives?
+* 02  - ([link to pdf][talk2]) - _Stephen Mhere_ - Reducing health care costs and improving health outcomes: Is patient-centered care the means to achieve the incongruent objectives?
 
-* 03  - ([pdf][talk3]) - _Rachel Totaram_ - Participating in 12-step support groups while undergoing medication-assisted treatment for opioid use disorder: a qualitative study of individuals’ experiences with stigma
+* 03  - ([link to pdf][talk3]) - _Rachel Totaram_ - Participating in 12-step support groups while undergoing medication-assisted treatment for opioid use disorder: a qualitative study of individuals’ experiences with stigma
 
-* 04  - ([pdf][talk4]) - _Xian-Cao_ - A Comparative Analysis of home and community-based long term care between the USA and China
+* 04  - ([link to pdf][talk4]) - _Xian-Cao_ - A Comparative Analysis of home and community-based long term care between the USA and China
 
 [link to combined slides pdf][talk0]
 
@@ -21,7 +21,7 @@ _[poster for print](libs/images/hsr-gss-poster-1-print.pdf)_
 ## Reasons for starting and stopping medications for opioid use disorder: a qualitative analysis
 
 _Olivia Randall-Kosich, B.S., Barbara Andraka-Christou, J.D., Ph.D., Rachel Totaram, M.H.A., Jessica Alamo, B.A., Mayur Nadig, B.D.S._  
-[link to pdf][talk1]   
+([link to pdf][talk1])   
 
 **Background**: Despite their efficacy, medications for opioid use disorder (MOUD) are underutilized in the United States. Few studies have explored reasons why individuals pick MOUD versus non-MOUD options or why people discontinue using MOUD once they start. We sought to identify reasons why individuals start MOUD and stop MOUD, including how they learn of MOUD options. We also explored differences between starting and stopping the three most common formulations: methadone, oral buprenorphine, and extended-release naltrexone.
 
@@ -33,7 +33,7 @@ _Olivia Randall-Kosich, B.S., Barbara Andraka-Christou, J.D., Ph.D., Rachel Tota
 
 ## Reducing health care costs and improving health outcomes: Is patient-centered care the means to achieve the incongruent objectives?
 _Stephen Mhere, B.S._  
-[link to pdf][talk2]   
+([link to pdf][talk2])   
 
 **Purpose**: This research determines if primary care physicians use patient-centered care and whether healthcare policies predicated on the practice can be effective in achieving cost reductions while improving health outcomes. 
 
@@ -46,7 +46,7 @@ _Stephen Mhere, B.S._
 ## Participating in 12-step support groups while undergoing medication-assisted treatment for opioid use disorder: a qualitative study of individuals’ experiences with stigma
 
 _Rachel Totaram, M.H.A., Olivia Randall-Kosich, B.S., Brianna Alex, B.S., Barbara Andraka-Christou, J.D., Ph.D._  
-[link to pdf][talk3]   
+([link to pdf][talk3])   
 
 **Purpose**: To understand how stigma related to medication-assisted treatment (MAT) for opioid use disorder is operationalized in 12-step peer support groups and how individuals respond to stigma. Despite MAT’s efficacy, previous studies suggest that MAT-related stigma is common in 12-step support groups, but more information is needed about its operationalization and responses.
 
@@ -59,7 +59,7 @@ _Rachel Totaram, M.H.A., Olivia Randall-Kosich, B.S., Brianna Alex, B.S., Barbar
 ## A Comparative Analysis of home and community-based long term care between the USA and China
 
 _Xian Cao, B.S._  
-[link to pdf][talk4]   
+([link to pdf][talk4])   
 
 **Purpose**: This paper compared and contrast the home and community-based long term care between the USA and China, based on an extensive literature review. 
 
