@@ -6,7 +6,7 @@ _[poster for print](libs/images/hsr-gss-poster-1-print.pdf)_
 
 # Program
 
-* 01 - ([pdf][talk1]) - _Olivia Randall-Kosich_ - Reasons for starting and stopping medications for opioid use disorder: a qualitative analysis. ([pdf][talk1])
+* 01 - ([pdf][talk1]) - _Olivia Randall-Kosich_ - Reasons for starting and stopping medications for opioid use disorder: a qualitative analysis. 
 
 * 02  - ([pdf][talk2]) - _Stephen Mhere_ - Reducing health care costs and improving health outcomes: Is patient-centered care the means to achieve the incongruent objectives?
 
